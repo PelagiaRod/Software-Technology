@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gr.aueb.sweng22.team07.ArticleSubmissionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-05-17T19:24:40" hostname="DESKTOP-8S8TP7S" time="0.013">
+  <properties/>
+  <testcase name="articleDecline_test" classname="gr.aueb.sweng22.team07.ArticleSubmissionTest" time="0.012"/>
+  <testcase name="articleApprove_test" classname="gr.aueb.sweng22.team07.ArticleSubmissionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

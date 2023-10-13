@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\adapter_banner_item.xml",
+        "source": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\src\\main\\res\\layout\\adapter_banner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_flow.xml",
+        "source": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\src\\main\\res\\layout\\activity_flow.xml"
+    },
+    {
+        "merged": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_flow_2.xml",
+        "source": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\src\\main\\res\\layout\\activity_flow_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_submit.xml",
+        "source": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\src\\main\\res\\layout\\activity_submit.xml"
+    },
+    {
+        "merged": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_approve.xml",
+        "source": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\src\\main\\res\\layout\\activity_approve.xml"
+    },
+    {
+        "merged": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\card_item.xml",
+        "source": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\src\\main\\res\\layout\\card_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user.xml",
+        "source": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_admin.xml",
+        "source": "C:\\Users\\kozar\\Desktop\\TEXNOLOGIA\\team07\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    }
+]

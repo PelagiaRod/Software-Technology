@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gr.aueb.sweng22.team07.UserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-17T19:24:40" hostname="DESKTOP-8S8TP7S" time="0.001">
+  <properties/>
+  <testcase name="user_constructor" classname="gr.aueb.sweng22.team07.UserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

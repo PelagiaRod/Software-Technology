@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>850</x>
+      <y>90</y>
+      <w>280</w>
+      <h>230</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;entity&gt;&gt;
+Article
+--
+-title: String
+-URL: String
+-userSubmitted: User
+-realDatePublished: LocalDateTime
+-state: status
+--
++getTitle(): String
++getUrl(): String
++getUserSubmited(): User
++getRealDatePublished(): LocalDateTime
++getState(): status
++ setState(status): void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>100</x>
+      <y>420</y>
+      <w>210</w>
+      <h>250</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;entity&gt;&gt;
+User
+--
+-username: String
+-passwort: int
+-firstName: String
+-lastName: String
+-telephone: String
+-email: String
+--
++getUsername(): String
++getPassword(): int
++getFirstName(): String
++getLastName(): String
++getTelephone(): String
++getEmail(): String</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>100</x>
+      <y>90</y>
+      <w>210</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;controller&gt;&gt;
+Authentication
+--
+-allUsers: Arratlist&lt;User&gt;
+-User userInDatabase
+--
++signUp(User): boolean
++logIn(User): boolean
+-allUsersEmpty(): boolean
+-validateUsername(User): boolean
+-validatePassword(User): boolean
++getAllUsers(): ArrayList</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>910</x>
+      <y>400</y>
+      <w>180</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Enumeration&gt;&gt;
+status
+--
+APPROVED
+DECLINED
+PENDING</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>140</x>
+      <y>740</y>
+      <w>100</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>Admin</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>180</x>
+      <y>660</y>
+      <w>30</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>490</x>
+      <y>90</y>
+      <w>220</w>
+      <h>220</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;entity&gt;&gt;
+ArticleSubmission
+--
++allArticles: ArrayList
++aprovedArticles: ArrayList 
+--
++submission(String, String, User): boolean
++articleApproved(Article): void
++articleDecline(Article): void
+-allArticlesEmpty(): boolean
+-validateArticles(Article): boolean
++getAllArticles(): ArrayList
++getApprovedArticles(): ArrayList</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>990</x>
+      <y>310</y>
+      <w>30</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=-</panel_attributes>
+    <additional_attributes>10.0;90.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>190</x>
+      <y>260</y>
+      <w>40</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2=1</panel_attributes>
+    <additional_attributes>10.0;160.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>240</x>
+      <y>300</y>
+      <w>350</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=1
+m2=n</panel_attributes>
+    <additional_attributes>10.0;120.0;10.0;50.0;320.0;50.0;320.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>700</x>
+      <y>100</y>
+      <w>170</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=-
+m1=n
+m2=1</panel_attributes>
+    <additional_attributes>10.0;10.0;150.0;10.0</additional_attributes>
+  </element>
+</diagram>
