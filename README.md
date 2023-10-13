@@ -135,4 +135,4 @@
 
 #### Αποδοχή Άρθρου
 
-![Διάγραμμα ακολουθίας - Αποδοχή Άρθρου](uml/requirements/accept_article_sequence.png)
+![Διάγραμμα ακολουθίας - Αποδοχή Άρθρου](docs/markdown/uml/requirements/accept_article_sequence.png)
