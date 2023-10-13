@@ -106,32 +106,32 @@
 
 ## Μοντέλο πεδίου
 
-![Μοντέλο πεδίου](uml/requirements/field_model.png)
+![Μοντέλο πεδίου](docs/uml/requirements/field_model.png)
 
 ## Ανάλυση περιπτώσεων χρήσης
 --------------------------
 
 ### Διάγραμμα Ακολουθίας
 
-![Διάγραμμα Ακολουθίας](uml/requirements/sequence_diagram.png)
+![Διάγραμμα Ακολουθίας](docs/uml/requirements/sequence_diagram.png)
 
 ### Κλάσεις ανάλυσης
 
-![Κλάσεις Ανάλυσης](uml/requirements/class_diagram.png)
+![Κλάσεις Ανάλυσης](docs/uml/requirements/class_diagram.png)
 
 ### Συμπεριφορές
 
 #### Εγγραφή Χρήστη
 
-![Διάγραμμα ακολουθίας - Εγγραφή Χρήστη](uml/requirements/sign_up_sequence.png)
+![Διάγραμμα ακολουθίας - Εγγραφή Χρήστη](docs/uml/requirements/sign_up_sequence.png)
 
 #### Σύνδεση Χρήστη
 
-![Διάγραμμα ακολουθίας - Σύνδεση Χρήστη](uml/requirements/login_sequence.png)
+![Διάγραμμα ακολουθίας - Σύνδεση Χρήστη](docs/uml/requirements/login_sequence.png)
 
 #### Αποδοχή- Απόρριψη Χρήστη
 
-![Διάγραμμα ακολουθίας - Αποδοχή- Απόρριψη Χρήστη](uml/requirements/accept_reject_user_sequence.png)
+![Διάγραμμα ακολουθίας - Αποδοχή- Απόρριψη Χρήστη](docs/uml/requirements/accept_reject_user_sequence.png)
 
 #### Αποδοχή Άρθρου
 
